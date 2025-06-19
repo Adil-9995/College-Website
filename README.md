@@ -69,13 +69,7 @@ A clearly structured page with:
 
 ---
 
-## 🙋‍♂️ Maintained By
 
-**Adil Hassan A K**  
-📍 Trivandrum, Kerala, India  
-GitHub: [Adil-Hassan-A-K](https://github.com/Adil-Hassan-A-K)
-
----
 
 ## 📃 License
 
