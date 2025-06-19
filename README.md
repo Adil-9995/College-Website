@@ -5,7 +5,9 @@ A professionally designed and fully responsive website created for the College o
 
 👨‍💻 Developed By Team WebCrafts:
 Abiya Daniel
+
 Afiya R
+
 Adil Hassan A K
 
 🔍 Key Features:
